@@ -1,0 +1,22 @@
+{
+  "name": "controle-nintendo",
+  "version": "1.0.0",
+  "description": "Pure CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenderson-me/controle-nintendo.git"
+  },
+  "author": "wenderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenderson-me/controle-nintendo/issues"
+  },
+  "homepage": "https://github.com/wenderson-me/controle-nintendo#readme",
+  "dependencies": {
+    "nes.css": "^2.3.0"
+  }
+}
